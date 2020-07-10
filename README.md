@@ -6,12 +6,12 @@ course at FPT University, HCMC Campus
 
 ## You will find in this repo:
 * MathUtil class: hold all of our own mathmethods
-* Test class: demonstrate TĐ and Unit Testing using JUnit
+* Test class: demonstrate TDD and Unit Testing using JUnit
 * .gitignore
 * Markdown file itself
 
 ## Connect me via
 1. [github](https://github.com/Master3005)
-2. [Facebook](https://facebook.com/Minhdat)
+2. [Facebook](https://facebook.com/dat3005)
 
-### © 2020 Master
+### © 2020 By Master Đạt
