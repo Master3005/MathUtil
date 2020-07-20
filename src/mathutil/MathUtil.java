@@ -16,6 +16,9 @@ public class MathUtil {
      */
     public static void main(String[] args) {
         System.out.println("5! = "+ computeFactorial(5));
+        
+
+        
         //đoạn code trên chính là test hàm bằng tay, manual test
         //tức là:
         //ta chuẩn bị dât dể test, chính là số 5, đầu vào
